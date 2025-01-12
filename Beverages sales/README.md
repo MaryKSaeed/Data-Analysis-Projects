@@ -71,7 +71,7 @@ Both Excel and Tableau were used to create interactive dashboards, focusing on u
 ![Excel](https://drive.google.com/file/d/1P5-fJx-HQMccrCrLYPTqCx3uRgRsK8z8/view?usp=sharing)
 
 ### **2. Tableau Dashboard**
-![Tableau](https://drive.google.com/file/d/1P5-fJx-HQMccrCrLYPTqCx3uRgRsK8z8/view?usp=sharing)
+![Tableau](https://drive.google.com/uc?export=view&id=file/d/1P5-fJx-HQMccrCrLYPTqCx3uRgRsK8z8/view?usp=sharing)
 
 ---
 
