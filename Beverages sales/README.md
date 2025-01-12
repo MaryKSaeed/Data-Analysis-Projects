@@ -1,21 +1,79 @@
-# Soft Drinks Sales Dashboard Project
+# **Soft Drinks Sales Dashboard**
 
-## Objective
-To create an interactive dashboard for analyzing sales and gross profit trends of soft drinks across various sizes, client types, and brands.
+## **Objective**
+The goal of this project was to create an interactive dashboard that provides detailed insights into the sales and gross profit trends of soft drinks across various product sizes, client types, and brands. The dashboard empowers stakeholders to analyze and explore sales data effectively through dynamic filtering and intuitive visualizations.
 
-## What Was Done
-1. **Data Preparation**
-   - Cleaned and transformed raw sales data using Excel functions and PivotTables to ensure data accuracy and consistency.  
-   - Structured the dataset to align with dashboard requirements.
+---
 
-2. **Dashboard Design**
-   - Built dashboards in Excel and Tableau to visualize key metrics such as Net Sales, Gross Profit %, and Volume Distribution.  
-   - Incorporated dynamic filters for brands, periods, and client types, allowing stakeholders to explore trends interactively.  
+## **Project Overview**
 
-3. **Insights Delivered**
-   - Highlighted top-performing product sizes and client segments.  
-   - Tracked monthly sales and profitability trends, identifying opportunities for growth and cost optimization.
+### **1. Data Preparation**
+To ensure the data was accurate, consistent, and ready for visualization, the following steps were carried out:
 
-## How It Was Done
-- Leveraged advanced Excel formulas (e.g., `VLOOKUP`, `SUMIFS`) and PivotTables to aggregate data.  
-- Designed visualizations using charts and slicers in Excel and Tableau to ensure an intuitive and actionable interface.
+- **Cleaning and Transformation**:  
+  Raw sales data was cleaned and transformed using Excel functions and PivotTables to eliminate inconsistencies and align it with the dashboard's requirements.
+
+- **Reference Sheet**:  
+  A reference sheet was created to:
+  - Map the months and years mentioned in the dataset for precise filtering.  
+  - Provide a reference cell for radio button functionality, enabling dynamic filtering options.
+
+- **Structured Tables**:  
+  Key tables were built, including:
+  - A **Date Table** to enable time-based filtering, such as "Last Twelve Months" (LTM) or "Year to Date" (YTD).
+  - Net Sales and GP Development, Volume by Size, and Volume by Client Type tables to compute aggregated metrics dynamically using 'Pivot Tables' and functions like `IFERROR`, `VLOOKUP`, and `SUM`.
+
+- **Dynamic Slicers**:  
+  Slicers were added for filtering based on brand, making the dashboard more interactive and user-friendly.
+
+---
+
+### **2. Dashboard Design**
+Both Excel and Tableau were used to create interactive dashboards, focusing on usability and impactful visualizations. Key design elements include:
+
+- **Dynamic Metrics**:  
+  The dashboard provides insights into:
+  - **Net Sales** and **Gross Profit (%)** development over time.  
+  - **Volume Distribution** by product size and client type.
+
+- **Filters and Interactivity**:  
+  - Dropdown menus and radio buttons allow filtering by specific time periods such as LTM or YTD.  
+  - Brand-level filtering enables stakeholders to focus on particular products.
+
+- **Visualization Features**:  
+  - Clean, professional layouts for easy interpretation of metrics.
+  - Interactive charts for exploring trends in sales and gross profit percentages.
+
+---
+
+## **Key Features**
+- Dynamic filtering options for time periods (LTM/YTD), brands, and client types.
+- Detailed analysis of:
+  - Sales trends by size and client type.
+  - Net sales and gross profit performance over time.
+- Intuitive dashboard design for quick, actionable insights.
+
+---
+
+## **Technologies and Tools**
+- **Excel**:  
+  Used for data preparation, pivot tables, formulas, and dashboard creation.  
+  Key functions: `IFERROR`, `VLOOKUP`, `SUM`.
+  
+- **Tableau**:  
+  Created additional dashboards for advanced visualizations and dynamic insights.
+
+---
+
+## **Dashboard Snapshots**
+
+### **1. Excel Dashboard**
+![Excel](https://drive.google.com/file/d/1P5-fJx-HQMccrCrLYPTqCx3uRgRsK8z8/view?usp=sharing)
+
+### **2. Tableau Dashboard**
+![Tableau](https://drive.google.com/file/d/1P5-fJx-HQMccrCrLYPTqCx3uRgRsK8z8/view?usp=sharing)
+
+---
+
+## **Conclusion**
+This project successfully demonstrates how raw sales data can be transformed into actionable business intelligence through well-structured processes and professional dashboard design. The final dashboard allows stakeholders to analyze sales trends interactively, identify growth opportunities, and make informed decisions.
