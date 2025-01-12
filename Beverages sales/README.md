@@ -68,10 +68,10 @@ Both Excel and Tableau were used to create interactive dashboards, focusing on u
 ## **Dashboard Snapshots**
 
 ### **1. Excel Dashboard**
-![Excel](Beverages sales/Soft Drinks Excel Dashboard.png)
+![Soft Drinks Excel Dashboard](https://github.com/user-attachments/assets/888eefb7-ddc1-47ea-8432-bb9fbb6db64b)
 
 ### **2. Tableau Dashboard**
-![Tableau](Beverages sales/Soft Drinks Tableau Dashboard.png)
+![Soft Drinks Tableau Dashboard](https://github.com/user-attachments/assets/62686f92-73ba-4ec8-909a-459cc8562812)
 
 ---
 
