@@ -44,7 +44,10 @@ The **Movies Gross Correlations** project aimed to analyze the factors influenci
 ### Visualizations
 The following visualizations were used to highlight trends:
 - Heatmap to illustrate correlations between variables.
-- Scatter plots to display the relationship between budget and gross revenue.
+  ![Correlation Matrix For All Features](https://github.com/user-attachments/assets/647363a6-c527-4bff-a0d7-b7e0497b627a)
+
+- Scatter plots and Regression Line to display the relationship between budget and gross revenue.
+![Regression Between Gross and Budget](https://github.com/user-attachments/assets/69390046-a46b-462a-80e7-a80620713f5b)
 
 ---
 
