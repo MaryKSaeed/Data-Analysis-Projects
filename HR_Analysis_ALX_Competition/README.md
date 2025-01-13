@@ -52,7 +52,7 @@ This project was developed for the ALX competition to analyze HR data and uncove
 - Provided comprehensive, interactive dashboards for informed decision-making.
 
 ### Dashboard Visualizations
-- **[PDF Report](https://drive.google.com/file/d/1zxnHUUH7AjePV15PQVxIDV7kKgWk3NlN/view?usp=sharing, target="_blank")**: A PDF showcasing all the dashboards.
-- **[Interactive Report](https://app.powerbi.com/reportEmbed?reportId=d048f646-2bcc-4350-99a5-024d1024ee64&autoAuth=true&ctid=f349c2fd-fc94-4893-abe4-cfbe7ed52842){:target="_blank"}**: Explore the interactive dashboards online.
+- **[PDF Report](https://drive.google.com/file/d/1zxnHUUH7AjePV15PQVxIDV7kKgWk3NlN/view?usp=sharing)**: A PDF showcasing all the dashboards.
+- **[Interactive Report](https://app.powerbi.com/reportEmbed?reportId=d048f646-2bcc-4350-99a5-024d1024ee64&autoAuth=true&ctid=f349c2fd-fc94-4893-abe4-cfbe7ed52842)**: Explore the interactive dashboards online.
 
 ---
