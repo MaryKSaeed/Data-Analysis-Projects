@@ -115,18 +115,18 @@ This project involves an exploratory data analysis (EDA) of a synthetic retail s
 ---
 
 ## Interactive Dashboard
-You can explore the interactive dashboard for this analysis here: (Interactive Dashboard Link)[(https://app.powerbi.com/links/r-mISatAeI?ctid=f349c2fd-fc94-4893-abe4-cfbe7ed52842&pbi_source=linkShare)](#)
+You can explore the interactive dashboard for this analysis here:[(https://app.powerbi.com/links/r-mISatAeI?ctid=f349c2fd-fc94-4893-abe4-cfbe7ed52842&pbi_source=linkShare)]
 
 ---
 
 ### Dashboard Previews:
 #### Sales & Customers:
-![Dashboard: Sales](![Sales](https://github.com/user-attachments/assets/031978d4-28ca-4ddd-8577-d2d479fcd685)
-) 
+![Sales](https://github.com/user-attachments/assets/192a5ae8-dcfb-4b68-bad2-15d1814f0df1)
+
 
 #### Sales Trends:
-![Dashboard: Trends](![Trends](https://github.com/user-attachments/assets/f591f6e6-b942-49ab-9b22-2bb91cda6ed8)
-)
+![Trends](https://github.com/user-attachments/assets/3b736171-b11b-4b3c-9f06-4688daf0eb89)
+
 
 ---
 
