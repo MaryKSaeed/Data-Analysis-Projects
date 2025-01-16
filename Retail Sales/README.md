@@ -19,6 +19,7 @@ This project involves an exploratory data analysis (EDA) of a synthetic retail s
 - **Rows**: 998 unique transactions
 - **License**: CC0: Public Domain
 - **Update Frequency**: Never
+- **Original Dataset**: [https://www.kaggle.com/datasets/mohammadtalib786/retail-sales-dataset?resource=download]
 
 ---
 
@@ -113,11 +114,28 @@ This project involves an exploratory data analysis (EDA) of a synthetic retail s
 
 ---
 
+## Interactive Dashboard
+You can explore the interactive dashboard for this analysis here: (Interactive Dashboard Link)[(https://app.powerbi.com/links/r-mISatAeI?ctid=f349c2fd-fc94-4893-abe4-cfbe7ed52842&pbi_source=linkShare)](#)
+
+---
+
+### Dashboard Previews:
+#### Sales & Customers:
+![Dashboard: Sales](![Sales](https://github.com/user-attachments/assets/031978d4-28ca-4ddd-8577-d2d479fcd685)
+) 
+
+#### Sales Trends:
+![Dashboard: Trends](![Trends](https://github.com/user-attachments/assets/f591f6e6-b942-49ab-9b22-2bb91cda6ed8)
+)
+
+---
+
 ## Tools Used
 - **Data Cleaning**: Excel
 - **Visualization**: Power BI
 
 ---
+
 
 ## Conclusion
 This analysis highlights significant trends and actionable insights that can drive better decision-making in retail strategies. By implementing the outlined recommendations, businesses can enhance customer retention, optimize inventory management, and maximize revenue potential.
