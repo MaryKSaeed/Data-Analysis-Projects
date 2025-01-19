@@ -132,13 +132,6 @@ This project involves analyzing a dataset containing information about layoffs a
 ## Future Work
 - Include visualization tools like Tableau or PowerBI to better represent trends.
 - Analyze correlations between funding, industry stage, and layoff percentages.
-- Expand the dataset to include more countries for a global perspective.
 
 ---
-
-## Author
-**Mariam Khaled**  
-Bachelor in Computer & Systems Engineering  
-Graduation Year: 2024  
-GitHub: [Your GitHub Link]  
-LinkedIn: [Your LinkedIn Link]  
+ 
